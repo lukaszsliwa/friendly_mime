@@ -348,7 +348,7 @@ application/vnd.openxmlformats-officedocument.presentationml.slide,Microsoft Off
 application/vnd.openxmlformats-officedocument.presentationml.slideshow,Microsoft Office - OOXML - Presentation (Slideshow),.ppsx
 application/vnd.openxmlformats-officedocument.presentationml.template,Microsoft Office - OOXML - Presentation Template,.potx
 application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,Microsoft Office - OOXML - Spreadsheet,.xlsx
-application/vnd.openxmlformats-officedocument.spreadsheetml.template,Microsoft Office - OOXML - Spreadsheet Teplate,.xltx
+application/vnd.openxmlformats-officedocument.spreadsheetml.template,Microsoft Office - OOXML - Spreadsheet Template,.xltx
 application/vnd.openxmlformats-officedocument.wordprocessingml.document,Microsoft Office - OOXML - Word Document,.docx
 application/vnd.openxmlformats-officedocument.wordprocessingml.template,Microsoft Office - OOXML - Word Document Template,.dotx
 application/x-msbinder,Microsoft Office Binder,.obd
