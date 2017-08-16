@@ -504,7 +504,6 @@ application/vnd.ctc-posml,PosML,.pml
 application/postscript,PostScript,.ai
 application/x-font-type1,PostScript Fonts,.pfa
 application/vnd.powerbuilder6,PowerBuilder,.pbd
-application/pgp-encrypted,Pretty Good Privacy,""
 application/pgp-signature,Pretty Good Privacy - Signature,.pgp
 application/vnd.previewsystems.box,Preview Systems ZipLock/VBox,.box
 application/vnd.pvi.ptid1,Princeton Video Image,.ptid
